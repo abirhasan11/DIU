@@ -1,0 +1,24 @@
+.department{
+    color: white;
+    height: 200px;
+    font-size: larger;
+    /* background-color: skyblue; */
+    background-image: url("41.jpg.webp");
+    padding: 10px;
+
+}
+.faculty{
+    color: red;
+}
+.room{
+    color: green;
+}
+span.floor{
+    color: red;
+}
+.facultydesk{
+    height: 200;
+    padding: 10px 20px 30px;
+    background-color: aquamarine;
+
+}
